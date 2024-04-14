@@ -2,6 +2,9 @@
 
 Bu kütüphane, bir gRPC sunucusu ile etkileşim kurmak, kanıt verilerini almak ve ardından bu verileri bir blok zincir ağı üzerinde akıllı bir sözleşmeyi çağırmak için tasarlanmıştır. Bu readme dosyası, kütüphaneyi nasıl kullanacağınız ve belirli bileşenleri kendi kullanım senaryonuz için nasıl özelleştireceğiniz hakkında talimatlar içerir.
 
+![ScreenShot](supraoraclesevm.png)
+
+
 ## Kurulum
 
 PullServiceClient kütüphanesini kullanmak için şu adımları izleyin:

@@ -28,6 +28,7 @@ Kütüphaneyi kullanmadan önce main.js dosyasındaki gerekli ayarlamaları yapm
    const address = 'testnet-dora.supraoracles.com';
    ```
 2. Almak istediğiniz çiftleri dizi olarak ayarlayın:
+(https://gb-docs.supraoracles.com/docs/data-feeds/data-feeds-index)
 
    ```bash
    const pairIndexes = [0, 21, 61, 49];

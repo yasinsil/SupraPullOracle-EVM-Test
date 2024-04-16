@@ -22,7 +22,6 @@ Kütüphane, belirtilen parametreleri kullanarak gRPC sunucusundan kanıt verile
 
 # Ayarlar
 
-Before using the library, make sure to set up the configuration in the main.js file:
 Kütüphaneyi kullanmadan önce main.js dosyasındaki gerekli ayarlamaları yapmayı unutmayın:
 
 1. gRPC Adresini ayarlayın:
